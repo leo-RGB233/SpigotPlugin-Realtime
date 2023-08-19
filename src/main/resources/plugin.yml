@@ -1,0 +1,3 @@
+name: Realtime
+version: '${project.version}'
+main: cn.magic0610.realtime.Realtime
